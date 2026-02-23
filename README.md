@@ -1,11 +1,8 @@
 PetAgenda — Sistema Web de Agendamento para Pet Shop
 
 Alunos: 
-
 Anttonio Osório Molinaro Maccagnini 
-
 Gabriel Lengert Guedes
-
 Turma: T2ESOFT05NB
 
 1) Domínio do Problema
