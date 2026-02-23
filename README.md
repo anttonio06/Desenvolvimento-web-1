@@ -1,4 +1,8 @@
 PetAgenda — Sistema Web de Agendamento para Pet Shop
+Alunos: 
+Anttonio Osório Molinaro Maccagnini 
+Gabriel Lengert Guedes
+Turma: T2ESOFT05NB
 
 1) Domínio do Problema
 Este projeto implementa uma aplicação web para agendamento de serviços de pet shop, permitindo organizar atendimentos de banho, tosa, hidratação, consulta básica e corte de unhas. O sistema centraliza o cadastro de clientes, pets, serviços e agendamentos, evitando conflitos de horário e facilitando a rotina do pet shop. A aplicação será construída como um sistema web com páginas renderizadas no servidor (SSR) e persistência em banco de dados relacional (1 CRUD e 1 transação).
