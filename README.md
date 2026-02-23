@@ -53,8 +53,6 @@ Este projeto implementa uma aplicação web para agendamento de serviços de pet
   - Auxilia na criação de uma interface responsiva e visualmente consistente.
 
 
-
-
 5) Modelo de Dados (Resumo)
 Entidades previstas (pode haver alterações):
 - Usuario (id, nome, email, senha, permissoes)
