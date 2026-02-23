@@ -28,11 +28,11 @@ Este projeto implementa uma aplicação web para agendamento de serviços de pet
 
 
 3) Requisitos Não Funcionais (RNF)
--RNF01 — Segurança: armazenar senha com hash e exigir autenticação para rotas privadas.
--RNF02 — Usabilidade: interface simples, responsiva e com feedback (mensagens de sucesso/erro).
--RNF03 — Organização em camadas: o sistema será estruturado por rotas, controllers, serviços e repositórios, seguindo o padrão MVC para facilitar manutenção e evolução do código.
--RNF04 — Persistência: dados em banco relacional (SQLite no dev; MySQL opcional em produção).
--RNF05 — Confiabilidade: impedir conflitos de agenda por validação no back-end.
+- RNF01 — Segurança: armazenar senha com hash e exigir autenticação para rotas privadas.
+- RNF02 — Usabilidade: interface simples, responsiva e com feedback (mensagens de sucesso/erro).
+- RNF03 — Organização em camadas: o sistema será estruturado por rotas, controllers, serviços e repositórios, seguindo o padrão MVC para facilitar manutenção e evolução do código.
+- RNF04 — Persistência: dados em banco relacional (SQLite no dev; MySQL opcional em produção).
+- RNF05 — Confiabilidade: impedir conflitos de agenda por validação no back-end.
 
 
  4) Tecnologias e Justificativas
