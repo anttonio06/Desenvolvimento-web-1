@@ -74,7 +74,7 @@ Regra de conflito (exemplo):
  Nós iremos desenvolver o projeto em conjunto, realizando alinhamentos por ligações para implementar e revisar cada parte em tempo real. Para manter tudo organizado, vamos registrar as tarefas em um checklist simples (Issues do GitHub ou um Trello básico), marcando o que foi concluído e o que ficou pendente.
 
  Divisão sugerida
-- Pessoa A (Anttonio Maccagnini) (Back-end/Banco)**
+- Pessoa A (Anttonio Maccagnini) (Back-end/Banco)
   - modelagem do banco (SQLite) e tabelas
   - rotas do CRUD (clientes, pets, serviços)
   - regra de transação (criar agendamento sem conflito)
