@@ -7,15 +7,22 @@ Este projeto implementa uma aplicação web para agendamento de serviços de pet
 
 2) Requisitos Funcionais (RF)
 - RF01 — Autenticação: permitir login/logout de usuários (ex.: atendente, administrador e cliente).
+  
 -RF02 — CRUD de Clientes: cadastrar, listar, editar e excluir clientes (nome, telefone, email).
+
 -RF03 — CRUD de Pets: cadastrar, listar, editar e excluir pets vinculados a um cliente (nome, espécie, raça, porte, observações).
+
 -RF04 — CRUD de Serviços: cadastrar, listar, editar, e excluir serviços (nome, preço, duracao_min, descrição).
+
 -RF05 — Visualizar Agenda: exibir agendamentos por dia/semana com filtros (por serviço, por atendente, por pet).
+
 -RF06 — Transação: Criar Agendamento de Serviço
   	- selecionar cliente + pet + serviço + data/hora;
   	- validar se já existe agendamento no mesmo horário (conflito);
   	- registrar o agendamento e seu status (ex.: “Marcado”).
+    
 -RF07 — Cancelar/Reagendar: permitir cancelar ou reagendar (mantendo histórico básico).
+
 -RF08 — Status do Atendimento: atualizar status (Marcado, Em atendimento, Concluído, Cancelado).
 
 
