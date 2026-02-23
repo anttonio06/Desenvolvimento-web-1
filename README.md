@@ -69,7 +69,8 @@ Regra de conflito (exemplo):
 - não permitir dois agendamentos com o mesmo `data_hora` (ou no mesmo intervalo de duração do serviço).
 
 
-6) Organização de Tarefas (Dupla)
+6) Organização de Tarefas (Dupla):
+
  Nós iremos desenvolver o projeto em conjunto, realizando alinhamentos por ligações para implementar e revisar cada parte em tempo real. Para manter tudo organizado, vamos registrar as tarefas em um checklist simples (Issues do GitHub ou um Trello básico), marcando o que foi concluído e o que ficou pendente.
 
  Divisão sugerida
