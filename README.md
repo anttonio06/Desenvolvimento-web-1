@@ -75,7 +75,7 @@ Regra de conflito (exemplo):
   - regra de transação (criar agendamento sem conflito)
   - autenticação (sessão)
 
--  Pessoa B (Gabriel Lengert Guedes) (Front-end/EJS/UI)
+- Pessoa B (Gabriel Lengert Guedes) (Front-end/EJS/UI)
   - telas EJS (login, listagens, formulários)
   - página da agenda (lista por dia/semana)
   - layout responsivo e mensagens de validação
